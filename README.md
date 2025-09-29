@@ -1,1 +1,5 @@
-# The-last-of-down-
+Сразу говорю: сборка не моя!
+
+сборк скачена с дискорд канала Rorcik| Palace (https://discord.gg/rorcikpalace)
+
+этот гит был сделан для скачивания сборки.
